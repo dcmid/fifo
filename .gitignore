@@ -5,5 +5,5 @@
 
 !*/
 
-*hdl/*.sv
-*sim/*.sv
+!*hdl/fifo.sv
+!*sim/*.sv
